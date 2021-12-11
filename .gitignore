@@ -1,0 +1,15 @@
+output*
+scip_patch
+
+*.tgz
+
+data
+.vscode
+
+temp.py
+graphics
+__pycache__
+exp
+
+collected*
+data_graph*
