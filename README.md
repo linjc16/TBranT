@@ -4,7 +4,7 @@ This repository is the official implementation of [Learning to Branch with Tree-
 - We use [SCIP]((https://scip.zib.de/index.php#download)) as the backend solver. To install SCIP, see installation instructions [here](SCIP_INSTALL.md). 
 - All other requirements are in `conda_requirements.txt`.
 ## Dataset
-The `T-BranT` dataset can be downloaded [here]((https://data.mendeley.com/datasets/8msnxmvdgp/1).
+The `T-BranT` dataset can be downloaded [here](https://data.mendeley.com/datasets/8msnxmvdgp/1).
 
 Our dataset consists of the following files:
 - `train.h5`: a H5 file containing all the training samples.
