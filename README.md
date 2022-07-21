@@ -1,5 +1,5 @@
 # Learning to Branch with Tree-aware Branching Transformers
-This repository is the official implementation of [Learning to Branch with Tree-aware Branching Transformers](https://www.sciencedirect.com/science/article/pii/S0950705122007298).
+This repository is the official implementation of [Learning to Branch with Tree-aware Branching Transformers](https://doi.org/10.1016/j.knosys.2022.109455).
 ## Requirements
 - We use [SCIP]((https://scip.zib.de/index.php#download)) as the backend solver. To install SCIP, see installation instructions [here](SCIP_INSTALL.md). 
 - All other requirements are in `conda_requirements.txt`.
